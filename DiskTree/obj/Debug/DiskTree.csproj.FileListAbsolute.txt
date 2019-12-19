@@ -1,0 +1,9 @@
+G:\Программирование\С#\DiskTree\obj\Debug\DiskTree.csprojAssemblyReference.cache
+G:\Программирование\С#\DiskTree\bin\Debug\DiskTree.exe.config
+G:\Программирование\С#\DiskTree\bin\Debug\DiskTree.exe
+G:\Программирование\С#\DiskTree\bin\Debug\DiskTree.pdb
+G:\Программирование\С#\DiskTree\bin\Debug\nunit.framework.dll
+G:\Программирование\С#\DiskTree\bin\Debug\nunitlite.dll
+G:\Программирование\С#\DiskTree\obj\Debug\DiskTree.csproj.CopyComplete
+G:\Программирование\С#\DiskTree\obj\Debug\DiskTree.exe
+G:\Программирование\С#\DiskTree\obj\Debug\DiskTree.pdb
